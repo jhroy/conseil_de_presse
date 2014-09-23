@@ -94,3 +94,6 @@ tout.push decision
 # écriture des résultats dans un fichier JSON
 
 File.open(fichier, "wb"){ |z| z << tout.to_json}
+
+# Tout ça en moins de 100 lignes!
+# Woohoo!
