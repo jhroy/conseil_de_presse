@@ -13,3 +13,8 @@ Création d'un fichier .csv à la fin.
 **CdP_json.rb**
 
 Script qui fait essentiellement la même chose que le premier, mais en créant un fichier JSON, mieux adapté à la structure de la base de données des décisions du Conseil de presse.
+
+**CdP.json**
+
+Fichier JSON résultat de l'extraction. Après nettoyage.
+*15,5 Mo*
