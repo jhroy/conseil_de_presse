@@ -1,7 +1,7 @@
 conseil_de_presse
 =================
 
-Fichiers pour extraction de toutes les décisions du Conseil de Presse du Québec de 1974 à 2014
+Fichiers pour extraction de toutes les décisions du Conseil de Presse du Québec de 1974 à 2014 (en septembre 2014, les plus récentes décisions dataient de juin).
 
 **CdP.rb**
 
@@ -16,5 +16,9 @@ Script qui fait essentiellement la même chose que le premier, mais en créant u
 
 **CdP.json**
 
-Fichier JSON résultat de l'extraction. Après nettoyage.  
+Fichier JSON résultat de l'extraction. Base de données complète des décisions du Conseil de presse. Après nettoyage.  
 *15,5 Mo*
+
+**CdP_plaintes_par_categorie.csv**
+
+Fichier CSV des catégories de plaintes.
