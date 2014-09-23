@@ -1,0 +1,136 @@
+Motif,Catégorie,Nombre
+C01A Expression d'opinion,C01 Liberté d'expression,87
+C01C Opinion non appuyée sur des faits,C01 Liberté d'expression,35
+C01B Objection à la prise de position,C01 Liberté d'expression,23
+C01D Opinion sans couverture préalable,C01 Liberté d'expression,8
+C02A Choix et importance de la couverture,C02 Choix de couverture,141
+C02B Moment de publication/diffusion,C02 Choix de couverture,29
+C02C Accorder un suivi à une affaire,C02 Choix de couverture,18
+C02F Création/retrait de rubriques/d'émissions,C02 Choix de couverture,9
+C02D Boycottage,C02 Choix de couverture,6
+C02E Importance des secteurs d'information,C02 Choix de couverture,3
+C03C Sélection des faits rapportés,C03 Discrétion rédactionnelle,80
+C03B Sources d'information,C03 Discrétion rédactionnelle,79
+C03A Angle de traitement,C03 Discrétion rédactionnelle,76
+C03D Emplacement/visibilité de l'information,C03 Discrétion rédactionnelle,28
+C04A Article non signé,C04 Signature des textes,14
+C04C Identification de l'auteur,C04 Signature des textes,8
+C04B Usage d'un pseudonyme,C04 Signature des textes,4
+C05A Réplique abusive,C05 Droit de réplique des journalistes,14
+C05B Réplique refusée à un journaliste,C05 Droit de réplique des journalistes,2
+C06A Accès à l'information,C06 Indépendance journalistique,22
+C06G Ingérence de la direction du média,C06 Indépendance journalistique,20
+C06D Ingérence extérieure dans la rédaction,C06 Indépendance journalistique,13
+C06H Affectation des journalistes,C06 Indépendance journalistique,13
+C06C Appel au boycottage/représailles,C06 Indépendance journalistique,8
+C06I Congédiement d'un journaliste,C06 Indépendance journalistique,8
+C06J Modification d'un texte journalistique,C06 Indépendance journalistique,5
+C06B Législation,C06 Indépendance journalistique,3
+C06E Saisie de matériel journalistique,C06 Indépendance journalistique,2
+C06F Écoute électronique,C06 Indépendance journalistique,2
+C07B Devoir de réserve,C07 Liberté de l'information,10
+C07A Entrave à la diffusion/distribution,C07 Liberté de l'information,8
+C07C Entrave à la diffusion d'un communiqué,C07 Liberté de l'information,6
+C08A Choix des textes,C08 Traitement des contributions du public,116
+C08B Modification des textes,C08 Traitement des contributions du public,30
+C08F Tribune réservée aux lecteurs,C08 Traitement des contributions du public,27
+C08H Lettres diffamatoires,C08 Traitement des contributions du public,14
+C08D Identification des textes,C08 Traitement des contributions du public,13
+C08E Boycottage/représailles,C08 Traitement des contributions du public,13
+C08C Délai de publication,C08 Traitement des contributions du public,8
+C08G Lettres anonymes,C08 Traitement des contributions du public,8
+C08I Lettres discriminatoires,C08 Traitement des contributions du public,6
+C09A Refus d'un droit de réponse,C09 Droit de réponse du public,112
+C09B Droit de réponse insatisfaisant,C09 Droit de réponse du public,39
+C09C Modification du texte,C09 Droit de réponse du public,17
+C10D Refus de publier,C10 Choix et importance de la publicité,14
+C10A Choix de la publicité,C10 Choix et importance de la publicité,9
+C10B Composante publicitaire d'un journal,C10 Choix et importance de la publicité,6
+C10C Publicité trompeuse,C10 Choix et importance de la publicité,4
+C10E Bris de contrat,C10 Choix et importance de la publicité,1
+C11B Information inexacte,C11 Exactitude de l'information,409
+C11F Titre/présentation de l'information,C11 Exactitude de l'information,152
+C11C Déformation des faits,C11 Exactitude de l'information,147
+C11A Erreur,C11 Exactitude de l'information,69
+C11D Propos/texte mal cités/attribués,C11 Exactitude de l'information,52
+C11H Terme/expression impropre,C11 Exactitude de l'information,51
+C11G Rapporter des propos/témoignages erronés,C11 Exactitude de l'information,39
+C11E Estimation des foules,C11 Exactitude de l'information,5
+C12B Information incomplète,C12 Équilibre de l'information,186
+C12A Manque d'équilibre,C12 Équilibre de l'information,173
+C12C Absence d'une version des faits,C12 Équilibre de l'information,143
+C12D Manque de contexte,C12 Équilibre de l'information,55
+C13A Partialité,C13 Impartialité de l'information,215
+C13B Manipulation de l'information,C13 Impartialité de l'information,82
+C13C Manque de distance critique,C13 Impartialité de l'information,41
+C14A Sensationnalisme/exagération/insistance indue,C14 Pondération de l'information,211
+C15A Manque de rigueur,C15 Rigueur de l'information,113
+C15D Manque de vérification,C15 Rigueur de l'information,83
+C15H Insinuations,C15 Rigueur de l'information,70
+C15C Information non établie,C15 Rigueur de l'information,61
+C15I Propos irresponsable,C15 Rigueur de l'information,54
+C15B Reprendre une information sans la vérifier,C15 Rigueur de l'information,48
+C15J Abus de la fonction d'animateur,C15 Rigueur de l'information,35
+C15E Fausse nouvelle/information,C15 Rigueur de l'information,30
+C15G Rumeurs/ouï-dire,C15 Rigueur de l'information,12
+C15F Information non attribuée,C15 Rigueur de l'information,11
+C16B Divulgation de l'identité/photo,C16 Respect de la vie privée,116
+C16D Publication d'informations privées,C16 Respect de la vie privée,69
+C16G Manque d'égards envers les victimes/proches,C16 Respect de la vie privée,41
+C16C Publication de l'adresse/téléphone,C16 Respect de la vie privée,28
+C16E Mention non pertinente,C16 Respect de la vie privée,19
+C16A Divulgation des antécédents judiciaires,C16 Respect de la vie privée,12
+C16F Images de violence physique,C16 Respect de la vie privée,6
+C17G Atteinte à l'image,C17 Respect des personnes,191
+C17D Discréditer/ridiculiser,C17 Respect des personnes,167
+C17A Diffamation,C17 Respect des personnes,111
+C17C Injure,C17 Respect des personnes,103
+C17F Rapprochement tendancieux,C17 Respect des personnes,74
+C17E Attaques personnelles,C17 Respect des personnes,68
+C17H Procès par les médias,C17 Respect des personnes,47
+C17B Diffamation (citation),C17 Respect des personnes,12
+C18C Préjugés/stéréotypes,C18 Respect des groupes sociaux,129
+C18D Discrimination,C18 Respect des groupes sociaux,91
+C18B Généralisation/insistance indue,C18 Respect des groupes sociaux,44
+C18A Mention de l'appartenance,C18 Respect des groupes sociaux,33
+C18E Discrimination (citation),C18 Respect des groupes sociaux,9
+C18F Discrimination (couverture),C18 Respect des groupes sociaux,7
+C19A Absence/refus de rectification,C19 Rectification de l'information,135
+C19B Rectification insatisfaisante,C19 Rectification de l'information,62
+C19C Délai de rectification,C19 Rectification de l'information,12
+C20A Identification/confusion des genres,C20 Distinction des genres,108
+C21A Publicité déguisée en information,C21 Information et publicité,42
+C21E Subordonner l'information à des intérês commerciaux,C21 Information et publicité,26
+C21C Traitement à caractère promotionnel,C21 Information et publicité,19
+C21G Indépendance des services d'information et de publicité,C21 Information et publicité,14
+C21F Pressions/représailles contre un média,C21 Information et publicité,12
+C21B Extraits d'articles dans la publicité,C21 Information et publicité,5
+C21D Information déguisée en publicité,C21 Information et publicité,4
+C22H Détourner la presse de ses fins,C22 Conflit d'intérêts,40
+C22C Intérês financiers,C22 Conflit d'intérêts,37
+C22F Liens personnels,C22 Conflit d'intérêts,35
+C22B Engagement politique,C22 Conflit d'intérêts,33
+C22E Travail extérieur incompatible,C22 Conflit d'intérêts,18
+C22D Engagement social,C22 Conflit d'intérêts,17
+C22G Appartenance du journaliste,C22 Conflit d'intérêts,11
+C22A Voyage gratuit,C22 Conflit d'intérêts,4
+C23G Plagiat/repiquage,C23 Cueillette de l'information,34
+C23E Enregistrement clandestin,C23 Cueillette de l'information,27
+C23D Tromper sur ses intentions,C23 Cueillette de l'information,26
+C23L Altercation/manque de courtoisie,C23 Cueillette de l'information,22
+C23I Violation de la propriété privée,C23 Cueillette de l'information,15
+C23C Recours à une fausse identité,C23 Cueillette de l'information,13
+C23J Intimidation/harcèlement,C23 Cueillette de l'information,13
+C23H Interview et images d'enfants,C23 Cueillette de l'information,10
+C23M Violation d'un interdit de publication,C23 Cueillette de l'information,10
+C23A Violation d'un embargo,C23 Cueillette de l'information,7
+C23F Faire voir un texte avant publication,C23 Cueillette de l'information,7
+C23B Violation d'un « off the record »,C23 Cueillette de l'information,4
+C23K Exclusivité/primeur,C23 Cueillette de l'information,4
+C23O Préenregistrement d'un bulletin de nouvelles,C23 Cueillette de l'information,4
+C23N Refus de collaboration avec la police,C23 Cueillette de l'information,3
+C23P Diffuser un communiqué sans traitement,C23 Cueillette de l'information,3
+C24A Manque de collaboration,C24 Traitement des plaintes,146
+C24D Hors mandat,C24 Traitement des plaintes,21
+C24C Règles de procédure,C24 Traitement des plaintes,11
+C24B Mauvaise foi,C24 Traitement des plaintes,6
