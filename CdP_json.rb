@@ -30,11 +30,11 @@ for n in 1..189 do # boucle qui ratisse chacune des 189 pages des résultats de 
 	# Utilisation de la méthode CSS pour aller chercher les hyperliens
 	# dans les pages des résultats de recherche du CdeP.
 
-		page1 = resultat.css("div.link a").map {|lien| lien["href"]}
+		page = resultat.css("div.link a").map {|lien| lien["href"]}
 
 	# Ajout des urls trouvées dans la matrice decisions
 
-		page1.each do |dec|
+		page.each do |dec|
 			decisions.push dec
 		end
 
